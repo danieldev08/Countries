@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: sans-serif;
+    background: black;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+    transition: .4s;
+    border: none;
+    outline: none;
+}
+
+.img {
+    width: 300px;
+    height: 200px;
+}
+
+.block {
+    width: 30%;
+    margin: 0 auto 20px auto;
+    border: 2px solid white;
+}
